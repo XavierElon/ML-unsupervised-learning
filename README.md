@@ -1,4 +1,4 @@
-# CS7641 - Assignment 3 - Unsupervised Learning
+# Unsupervised Learning
 
 ## About this Project
 Exploration Steps:
@@ -84,6 +84,3 @@ navigate to the respective directory to view them
 ## 4. References
 - https://www.kaggle.com/datasets/akashkr/phishing-website-dataset/data
 - https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
-
-### 5. Notes:
-Isomap was explored as a linear dimensionality reduction technique so there are notebooks in there for that but there was not enough room in the report to discuss their findings so they can be ignored
