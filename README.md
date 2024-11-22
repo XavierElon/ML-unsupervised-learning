@@ -8,7 +8,6 @@ experiment in its entirety.
 
 Scikit-learn (python3) is used to evaluate the algorithms.
 
-Overleaf read only project can be found here: https://www.overleaf.com/read/jjtfztkdjgmq#12e768
 
 ## How to run this project
 ## 1. Prereqs
@@ -17,10 +16,8 @@ Overleaf read only project can be found here: https://www.overleaf.com/read/jjtf
 - conda
 - jupyter notebook
 - sklearn
-- 
+
 ## 1. Setting up environment
-- Download the code repository using the box link https://gatech.box.com/s/hieeun4bjtynw9a7fhyryyhrukxxooop
-- You will need to unzip the folder
 - The data can be found here so no need to download it externally
 - Navigate to the `unsupervised-learning` directory using `cd unsupervised-learning`
 - Install conda (refer to https://conda.io/projects/conda/en/latest/user-guide/install/index.html for instructions)
