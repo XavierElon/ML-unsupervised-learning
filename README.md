@@ -35,23 +35,23 @@ conda activate unsupervised_learning
 
 ## 3. Directory Structure
 
-├── data
-│   ├── default_of_credit_card_clients.csv
-│   └── phishing_dataset.csv
-├── images (will generate when notebooks are run)
-├── notebooks
-    ├── default-payment-cluster.ipynb
-    ├── default-payment-ica.ipynb
-    ├── default-payment-isomap.ipynb
-    ├── default-payment-pca.ipynb
-    ├── default-payment-rp.ipynb
-    ├── phishing-cluster.ipynb
-    ├── phishing-ica.ipynb
-    ├── phishing-isomap.ipynb
-    ├── phishing-pca.ipynb
-    └── phishing-rp.ipynb
-├── results
-├── environment.yml
+├── data<br>
+│   ├── default_of_credit_card_clients.csv<br>
+│   └── phishing_dataset.csv<br>
+├── images (will generate when notebooks are run)<br>
+├── notebooks<br>
+│   ├── default-payment-cluster.ipynb<br>
+│   ├── default-payment-ica.ipynb<br>
+│   ├── default-payment-isomap.ipynb<br>
+│   ├── default-payment-pca.ipynb<br>
+│   ├── default-payment-rp.ipynb<br>
+│   ├── phishing-cluster.ipynb<br>
+│   ├── phishing-ica.ipynb<br>
+│   ├── phishing-isomap.ipynb<br>
+│   ├── phishing-pca.ipynb<br>
+│   └── phishing-rp.ipynb<br>
+├── results<br>
+├── environment.yml<br>
 ├── README.md
 
 - data: holds the datasets
@@ -81,3 +81,6 @@ navigate to the respective directory to view them
 ## 4. References
 - https://www.kaggle.com/datasets/akashkr/phishing-website-dataset/data
 - https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+
+## Disclaimer
+This code repository and all its contents are the intellectual property of the owner and are protected under applicable copyright laws. Unauthorized copying, distribution, or reproduction of any part of this repository, whether in whole or in part, is strictly prohibited. This includes, but is not limited to, duplicating, sharing, or deriving works without explicit written consent from the owner. By accessing this repository, you agree to respect these terms and refrain from any actions that violate intellectual property rights.
